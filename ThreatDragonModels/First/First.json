@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "First",
-    "owner": "myself"
+    "owner": "myself",
+    "description": "First"
   },
   "detail": {
     "contributors": [],
